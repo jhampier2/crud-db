@@ -1,1 +1,1 @@
-"<?php // C¢digo MySQLi ?>" 
+"<?php // C¢digo PDO ?>" 
