@@ -1,0 +1,1 @@
+"<?php // C¢digo MySQLi ?>" 
